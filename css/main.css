@@ -1,6 +1,6 @@
 html {
   background-color: #f2f1ed;
-  font-family: Georgia,serif;
+  font-family: Georgia, serif;
   line-height: 1.5;
   box-sizing: border-box;
 }
@@ -9,13 +9,14 @@ html {
   box-sizing: inherit;
 }
 
-img{
+img {
   width: 100%;
 }
 
 h1, h2 {
   color: #5d8432;
   text-transform: uppercase;
+  font-family: "Patua One", sans-serif;
 }
 
 figcaption {
@@ -45,8 +46,4 @@ nav a:hover {
 
 .intro {
   font-size: 1rem;
-}
-
-h1, h2, h3 {
-  font-family: 'Patua One', cursive;
 }
